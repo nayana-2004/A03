@@ -1,17 +1,17 @@
 # A03
-__GitHub Tutorial__
+#  __GitHub Tutorial__
 
-__Step 1: Go to the website :__ https://github.com/
+##  __Step 1: Go to the website :__ https://github.com/
 
-__Step 2: Create a free GitHub account__
+##  __Step 2: Create a free GitHub account__
 To set up a GitHub account, Give a Username, Email, and password, and select Sign up for GitHub.
 
-__Step 3: Create a new repository__
+##  __Step 3: Create a new repository__
 -  A repository is similar to a location or container where stuff is saved. In this instance, we are building a Git repository to store code. 
 -  Select New Repository from the + sign dropdown menu.
 -  Enter a name in Repository name and click Create Repository.
 
-__Step 4: Commit a change__ 
+##  __Step 4: Commit a change__ 
 -  A change can be committed to the README file that is initialized when a new repository is created.
 -  Select README.md in the repository list of names .
 -  Click the Edit option,represented as a pen, and type some information.
@@ -23,21 +23,21 @@ __Step 4: Commit a change__
 You have now created an account on GitHub, a repository, initialized it with a README file, and the first commit on GitHub.com.
 
 
-__WebStorm__
+#  __WebStorm__
 
 WebStorm is an IDE(integrated development environment) for JavaScript development and related technologies. It includes intelligent coding assistance, debugging, testing, tracing and profiling, and seamless tool integration. IDE features include VCS, Local history, and Customization.
 
 
-__GIT and GitHub__
+#  __GIT and GitHub__
 
 GIT and GitHub are two very different things. Git is a distributed version control system that is free and open source made to manage all types of projects quickly and effectively, from tiny to very large ones. A version control system, or VCS, keeps track of the changes created whereas people and teams work together on projects. With considerable advantages for teams, it is frequently used for both open source and commercial software development. Git permits developers to see the complete timeline of their changes and progression on their projects.
 
 GitHub makes tools that integrate with GIT. GIT can be used without GitHub, but Github cannot be used without using GIT. ‘TaraVault’, ‘BitBucket’, ‘GitBucket’, ‘Gogs’, ‘GitLab’ are some of the alternatives for GitHub. 
 
 
-__GitHub glossary__
+#  __GitHub glossary__
 
-__Branch:__ A branch is a repository's parallel version. You can work without restriction without interfering with the "live" version because it is contained within the repository and has no effect on the primary or main branch.
+## __Branch:__  ## A branch is a repository's parallel version. You can work without restriction without interfering with the "live" version because it is contained within the repository and has no effect on the primary or main branch.
 
 __Clone:__ A clone is the process of creating a copy of a repository that is stored on your computer as opposed to a website's server. Making a clone allows you to modify the files in your favorite editor and use Git to track changes without being connected to the internet.
 
