@@ -59,3 +59,8 @@ Pull: When you fetch in changes and merge them, this is referred to as pulling. 
 Remote: An online server, most likely GitHub.com, hosts this particular version of a repository or branch. Changes can be synchronized by connecting remote versions to local clones.
 
 Repository: The most basic component of GitHub is a repository. The simplest way to visualize them is as a project's folder. All of the project files, including the documentation, are kept in a repository, which also keeps track of each file's revision history. Multiple people can collaborate on repositories, which can also be either public or private.
+
+Resources:
+https://docs.github.com/en/get-started/quickstart/create-a-repo
+
+GitHub glossary - https://docs.github.com/en/get-started/quickstart/create-a-repo
