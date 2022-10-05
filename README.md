@@ -1,17 +1,17 @@
 # A03
 __GitHub Tutorial__
 
-__Step 1:__ Go to the website : https://github.com/
+__Step 1: Go to the website :__ https://github.com/
 
-__Step 2:__ Create a free GitHub account
+__Step 2: Create a free GitHub account__
 To set up a GitHub account, Give a Username, Email, and password, and select Sign up for GitHub.
 
-__Step 3:__ Create a new repository
-A repository is similar to a location or container where stuff is saved. In this instance, we are building a Git repository to store code. 
-select New Repository from the + sign dropdown menu.
-Enter a name in Repository name and click Create Repository.
+__Step 3: Create a new repository__
+-  A repository is similar to a location or container where stuff is saved. In this instance, we are building a Git repository to store code. 
+-  Select New Repository from the + sign dropdown menu.
+-  Enter a name in Repository name and click Create Repository.
 
-__Step 4:__ Commit a change 
+__Step 4: Commit a change__ 
 -  A change can be committed to the README file that is initialized when a new repository is created.
 -  Select README.md in the repository list of names .
 -  Click the Edit option,represented as a pen, and type some information.
