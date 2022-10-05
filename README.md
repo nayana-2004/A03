@@ -61,6 +61,7 @@ Remote: An online server, most likely GitHub.com, hosts this particular version 
 Repository: The most basic component of GitHub is a repository. The simplest way to visualize them is as a project's folder. All of the project files, including the documentation, are kept in a repository, which also keeps track of each file's revision history. Multiple people can collaborate on repositories, which can also be either public or private.
 
 Resources:
+
 https://docs.github.com/en/get-started/quickstart/create-a-repo
 
 GitHub glossary - https://docs.github.com/en/get-started/quickstart/create-a-repo
