@@ -1,29 +1,29 @@
 # A03
-GitHub Tutorial
+__GitHub Tutorial__
 
-Step 1: Go to the website : https://github.com/
+__Step 1:__ Go to the website : https://github.com/
 
-Step 2: Create a free GitHub account
+__Step 2:__ Create a free GitHub account
 To set up a GitHub account, Give a Username, Email, and password, and select Sign up for GitHub.
 
-Step 3: Create a new repository
+__Step 3:__ Create a new repository
 A repository is similar to a location or container where stuff is saved. In this instance, we are building a Git repository to store code. 
 select New Repository from the + sign dropdown menu.
 Enter a name in Repository name and click Create Repository.
 
-Step 4: Commit a change 
-A change can be committed to the README file that is initialized when a new repository is created.
-Select README.md in the repository list of names .
-Click the Edit option,represented as a pen, and type some information.
-Review the changes by clicking Preview, right next to the Edit file.
-By describing the changes made to the file, create a short commit message below Commit changes.
-Decide if you want to add the commit to a new branch. If not, then add it to the current branch.
-Click Propose file change.
+__Step 4:__ Commit a change 
+*A change can be committed to the README file that is initialized when a new repository is created.
+*Select README.md in the repository list of names .
+*Click the Edit option,represented as a pen, and type some information.
+*Review the changes by clicking Preview, right next to the Edit file.
+*By describing the changes made to the file, create a short commit message below Commit changes.
+*Decide if you want to add the commit to a new branch. If not, then add it to the current branch.
+*Click Propose file change.
 
 You have now created an account on GitHub, a repository, initialized it with a README file, and the first commit on GitHub.com.
 
 
-WebStorm
+__WebStorm__
 
 WebStorm is an IDE(integrated development environment) for JavaScript development and related technologies. It includes intelligent coding assistance, debugging, testing, tracing and profiling, and seamless tool integration. IDE features include VCS, Local history, and Customization.
 
