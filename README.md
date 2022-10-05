@@ -37,7 +37,7 @@ GitHub makes tools that integrate with GIT. GIT can be used without GitHub, but 
 
 #  __GitHub glossary__
 
-## __Branch:__  ## A branch is a repository's parallel version. You can work without restriction without interfering with the "live" version because it is contained within the repository and has no effect on the primary or main branch.
+ __Branch:__ A branch is a repository's parallel version. You can work without restriction without interfering with the "live" version because it is contained within the repository and has no effect on the primary or main branch.
 
 __Clone:__ A clone is the process of creating a copy of a repository that is stored on your computer as opposed to a website's server. Making a clone allows you to modify the files in your favorite editor and use Git to track changes without being connected to the internet.
 
@@ -60,7 +60,7 @@ __Remote:__ An online server, most likely GitHub.com, hosts this particular vers
 
 __Repository:__ The most basic component of GitHub is a repository. The simplest way to visualize them is as a project's folder. All of the project files, including the documentation, are kept in a repository, which also keeps track of each file's revision history. Multiple people can collaborate on repositories, which can also be either public or private.
 
-__Resources:__
+## __Resources:__
 
 https://docs.github.com/en/get-started/quickstart/create-a-repo
 
